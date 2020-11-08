@@ -1,0 +1,11 @@
+.DS_Store
+
+*.xcworkspace
+!default.xcworkspace
+
+xcuserdata
+
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
